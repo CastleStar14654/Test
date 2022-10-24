@@ -1,4 +1,4 @@
 # Test
 test wiki
 
-!(cylinder)[cylinder.ong]
+!(cylinder)[cylinder.png]
