@@ -1,4 +1,4 @@
 # Test
 test wiki
 
-!(cylinder)[cylinder.png]
+![cylinder](cylinder.png)
